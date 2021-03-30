@@ -27,7 +27,7 @@ public class Main {
         System.out.println("¿Desea iniciar el programa?");
         System.out.println("     SI (0)   NO(1)");
         rep = sc.nextInt();
-        while (rep < 4 ) {
+        while (rep == 0 ) {
          
             System.out.println();
             int menu1;

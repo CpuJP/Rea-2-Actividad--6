@@ -54,6 +54,8 @@ public class Paciente {
          System.out.println();
         System.out.print("Apellidos del paciente: "+apellido);
          System.out.println();
+        System.out.print("Número de D.I es: "+id); 
+         System.out.println();
         System.out.print("Sexo del paciente: "+sexo);
          System.out.println();
         System.out.print("Dirección de residencia del paciente: "+direccionResidencia);
